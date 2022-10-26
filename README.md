@@ -1,6 +1,10 @@
 # ML_Metastatic_Prediction
 Machine Learning Characterization of a Novel Panel for Metastatic Prediction in Breast Cancer
 
+You can see the codes of the paper published by Global Journal of Perioperative Medicine 
+
+https://www.peertechzpublications.com/abstracts/GJPM-6-111
+
 ## Background
 
 Metastasis is one of the most challenging problems in cancer diagnosis and
